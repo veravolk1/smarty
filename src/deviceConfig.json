@@ -1,0 +1,56 @@
+{
+  "devices": [
+    {
+      "deviceId": "APPLE_HOMEPOD",
+      "deviceName": "Apple HomePod",
+      "price": "329€",
+      "description": "Der HomePod ist ein Laut\u00ADsprecher mit viel Power, der fantastisch klingt und sich an seine Umgebung anpasst. Er ist ein absoluter Musikexperte und verbindet Apple Music mit Siri, um zu lernen, welche Musik du magst. Und er ist ein intelligenter Assistent für zuhause, der alltägliche Aufgaben erledigen und dein Smart Home steuern kann. Der HomePod bringt dein Hörerlebnis auf ein neues Level. Und das ist erst der Anfang.",
+      "sprachassistenz": "Apple Siri",
+      "schnittstellen": "WLAN, Bluetooth",
+      "gewicht": "2.5 kg",
+      "masse": "220 x 220 x 290 mm (BxHxT)",
+      "akku": "-",
+      "farben": "Schwarz, Weiß",
+      "images": ["applehomepod1.png", "applehomepod2.png"]
+    },
+    {
+      "deviceId": "Amazon_Echo_Show",
+      "deviceName": "Amazon Echo Show",
+      "price": "249€",
+      "description": "Der Amazon Echo Show überzeugt durch einen guten Klang, einer rundum gelungenen Performance und cleveren Videofunktionen. Das Display mit automatischer Bewegungsverfolgung kann dabei je nach Einsatz recht praktisch sein – befindest du dich in der Küche und du wechselst beispielsweise öfters vom Herd zur Anrichte, so hast du den Echo Show stets im Blick.",
+      "sprachassistenz": "Amazon Alexa",
+      "schnittstellen": " Bluetooth, Zigbee",
+      "gewicht": "2.56 kg",
+      "masse": "256 x 245 x 183 mm (BxHxT)",
+      "display_size": "10,1 Zoll (25,6 cm)",
+      "farben": "Anthrazit, Weiß",
+      "images": ["amazonecho1.png", "amazonecho2.png"]
+    },
+    {
+      "deviceId": "GOOGLE_NEST",
+      "deviceName": "Google Nest Audio",
+      "price": "99€",
+      "description": "Der Google Nest Audio trägt das Erbe des Google Home würdig weiter. Auch wenn dem Speaker ein bisschen Power im unteren Frequenzbereich fehlt, schafft es Googles Gerät eine ordentliche Klangperformance zu präsentieren. Eine hochwertige Verarbeitung und ein großer Funktionsumfang komplettieren das Bild und machen den Google Nest Audio zu einem empfehlenswerten Smart Speaker.",
+      "sprachassistenz": "Google Assistant",
+      "schnittstellen": "Bluetooth 5.0, WLAN, Chromecast",
+      "gewicht": "1,2 kg",
+      "masse": "124 x 175 x 78 mm (BxHxT)",
+      "akku": "-",
+      "farben": "Kreide, Carbon",
+      "images": ["googlenest1.png", "googlenest2.png"]
+    },
+    {
+      "deviceId": "Facebook_Portal",
+      "deviceName": "Facebook Portal",
+      "price": "155€",
+      "description": "Der Google Nest Audio trägt das Erbe des Google Home würdig weiter. Auch wenn dem Speaker ein bisschen Power im unteren Frequenzbereich fehlt, schafft es Googles Gerät eine ordentliche Klangperformance zu präsentieren. Eine hochwertige Verarbeitung und ein großer Funktionsumfang komplettieren das Bild und machen den Google Nest Audio zu einem empfehlenswerten Smart Speaker.",
+      "sprachassistenz": "Amazon Alexa",
+      "schnittstellen": "WLAN",
+      "gewicht": "1 kg",
+      "masse": "260 x 178 x 25 mm (BxHxT)",
+      "akku": "-",
+      "farben": "Schwarz, Weiß",
+      "images": ["googlenest1.png", "googlenest2.png"]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.image{
+    height: 300px;
+    margin: auto;
+}
+
+.carousel-indicators{
+    margin-bottom: -50px !important;
+}

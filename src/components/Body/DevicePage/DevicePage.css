@@ -1,0 +1,31 @@
+
+.carouselCell {
+    border-right:  1px solid #C6C7C6;
+}
+
+.features{
+    background-color: #C6C7C6;
+
+}
+.feature{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.infoComponent{
+    padding: 50px;
+}
+
+@media (min-width: 576px){
+    .carouselCell {
+        border-right:  none;
+    }
+}
+
+@media (min-width: 768px){
+
+    .carouselCell {
+        border-right:  1px solid #C6C7C6;
+    }
+}
