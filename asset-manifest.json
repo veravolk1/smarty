@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/smarty/static/css/main.dc9eca51.chunk.css",
+    "main.js": "/smarty/static/js/main.ab704aa6.chunk.js",
+    "main.js.map": "/smarty/static/js/main.ab704aa6.chunk.js.map",
+    "runtime-main.js": "/smarty/static/js/runtime-main.e24000d6.js",
+    "runtime-main.js.map": "/smarty/static/js/runtime-main.e24000d6.js.map",
+    "static/css/2.f2512455.chunk.css": "/smarty/static/css/2.f2512455.chunk.css",
+    "static/js/2.54fc1fe7.chunk.js": "/smarty/static/js/2.54fc1fe7.chunk.js",
+    "static/js/2.54fc1fe7.chunk.js.map": "/smarty/static/js/2.54fc1fe7.chunk.js.map",
+    "static/js/3.91add366.chunk.js": "/smarty/static/js/3.91add366.chunk.js",
+    "static/js/3.91add366.chunk.js.map": "/smarty/static/js/3.91add366.chunk.js.map",
+    "index.html": "/smarty/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/smarty/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.dc9eca51.chunk.css.map": "/smarty/static/css/main.dc9eca51.chunk.css.map",
+    "static/js/2.54fc1fe7.chunk.js.LICENSE.txt": "/smarty/static/js/2.54fc1fe7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e24000d6.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.54fc1fe7.chunk.js",
+    "static/css/main.dc9eca51.chunk.css",
+    "static/js/main.ab704aa6.chunk.js"
+  ]
+}
