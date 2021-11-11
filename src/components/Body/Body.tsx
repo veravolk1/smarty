@@ -7,7 +7,6 @@ import {DeviceCategory} from '../../types/device';
 
 const Body: React.FC = () => {
     const {currentPage, currentDevices} = useContext(CurrentPageContextObject);
-    console.log(currentDevices);
     const device = currentDevices?.find(device => device.deviceId === currentPage);
     return (
         <div>
