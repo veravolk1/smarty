@@ -1,4 +1,4 @@
-import Device from "../../../../types/device";
+import {Device} from "../../../../types/device";
 import React from "react";
 import {Col, Row} from "react-bootstrap";
 import {MdRecordVoiceOver, MdSettingsInputComponent, MdBatteryStd} from "react-icons/md";

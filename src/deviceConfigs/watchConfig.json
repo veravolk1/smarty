@@ -1,0 +1,43 @@
+{
+  "devices": [
+   {
+      "deviceId": "Fitbit Sense",
+      "deviceName": "Fitbit Sense",
+      "price": "299€",
+      "description": "Die Fitbit Sense überzeugt uns mit starken Gesundheits-Features. Messungen von Puls, Stress, Schlaf und Sauerstoffgehalt im Blut gehören bei dieser Preisklasse eines Fitness-Trackers quasi zum Standard-Repertoire. Zusätzlich bietet sie ein Thermometer für die Hauttemperatur und, ähnlich wie Smartwatch-Flagschiffe von Samsung und Apple, ein EKG. Letzteres ist aktuell fast ein Alleinstellungsmerkmal bei den Fitness-Trackern unserer Bestenliste – nur die Withings Scanwatch zieht hier mit. Die Fitbit Sense eignet sich zudem zum Schwimmen, da sie bis 50 Meter wasserdicht ist.",
+      "sprachassistenz": "Amazon Alexa",
+      "schnittstellen": "Bluetooth",
+      "gewicht": "33 g",
+      "masse": "40 x 40 x 12 mm (BxHxT)",
+      "akku": "6+ Tage",
+      "farben": "Carbon",
+      "images": ["fitbit1.png", "fitbit2.png"]
+    },
+      {
+      "deviceId": "Garmin Vivoactive",
+      "deviceName": "Garmin Vivoactive",
+      "price": "249€",
+      "description": "Vivoactive ist der Name des jüngsten Sprosses im Portfolio der Fitness-Tracker des schweizer Unternehmens Garmin. Lange hat die Markteinführung auf sich warten lassen und seit der letzten Märzwoche ist das Fitnessarmband endlich in den Farben Schwarz und Weiß verfügbar. Gar nicht so leicht fällt hingegen die Einordnung des Produkt, denn sie ist sowohl vollwertige Sportuhr, als auch Smartwatch und Fitness Tracker.",
+      "sprachassistenz": "-",
+      "schnittstellen": " Bluetooth, WLAN",
+      "gewicht": "45 g",
+      "masse": "43,8 x 38,5 x 8 mm (BxHxT)",
+      "akku": "21 Tage",
+      "farben": "Schwarz, Weiß",
+      "images": ["garmin1.png", "garmin2.png"]
+    },
+    {
+      "deviceId": "Apple Watch",
+      "deviceName": "Apple Watch",
+      "price": "429€",
+      "description": "Der Google Nest Audio trägt das Erbe des Google Home würdig weiter. Auch wenn dem Speaker ein bisschen Power im unteren Frequenzbereich fehlt, schafft es Googles Gerät eine ordentliche Klangperformance zu präsentieren. Eine hochwertige Verarbeitung und ein großer Funktionsumfang komplettieren das Bild und machen den Google Nest Audio zu einem empfehlenswerten Smart Speaker.",
+      "sprachassistenz": "Google Assistant",
+      "schnittstellen": "Bluetooth 5.0, WLAN, Chromecast",
+      "gewicht": "40 g",
+      "masse": "34 x 40 x 11 mm (BxHxT)",
+      "akku": "18 Stunden",
+      "farben": "Kreide, Carbon",
+      "images": ["applewatch1.png", "applewatch2.png"]
+    }
+  ]
+}

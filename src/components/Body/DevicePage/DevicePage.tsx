@@ -1,5 +1,5 @@
 import React from "react";
-import Device from "../../../types/device";
+import {Device} from "../../../types/device";
 import {Row, Col} from "react-bootstrap";
 import CarouselComponent from "./CarouselComponent/CarouselComponent";
 import './DevicePage.css';
@@ -14,7 +14,7 @@ interface Props{
 const DevicePage: React.FC<Props> = ({device}) => {
 
     if(typeof device === "undefined"){
-        return <p>not available</p>;
+        return <p id="choose">Choose a Device</p>;
     }
   return(
      <>

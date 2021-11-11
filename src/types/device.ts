@@ -1,5 +1,5 @@
 
-type Device = {
+export type Device = {
     deviceId: string,
     deviceName: string,
     price: string,
@@ -14,4 +14,8 @@ type Device = {
     images: Array<string>
 }
 
-export default Device;
+export enum DeviceCategory {
+    SPEAKER = "Smart Speaker",
+    WATCH = "Smart Watch",
+    HOME = "Smart Home"
+}

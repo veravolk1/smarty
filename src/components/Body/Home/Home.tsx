@@ -1,10 +1,10 @@
 import React from "react";
-
+import './Home.css';
 
 const Home: React.FC = () => {
     return(
         <div>
-            <p>Home</p>
+            <p id="choose">Choose a Category</p>
         </div>
     );
 };

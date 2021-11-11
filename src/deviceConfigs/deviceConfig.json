@@ -2,7 +2,7 @@
   "devices": [
     {
       "deviceId": "APPLE_HOMEPOD",
-      "deviceName": "Apple HomePod",
+      "deviceName": "Test 1",
       "price": "329€",
       "description": "Der HomePod ist ein Laut\u00ADsprecher mit viel Power, der fantastisch klingt und sich an seine Umgebung anpasst. Er ist ein absoluter Musikexperte und verbindet Apple Music mit Siri, um zu lernen, welche Musik du magst. Und er ist ein intelligenter Assistent für zuhause, der alltägliche Aufgaben erledigen und dein Smart Home steuern kann. Der HomePod bringt dein Hörerlebnis auf ein neues Level. Und das ist erst der Anfang.",
       "sprachassistenz": "Apple Siri",
@@ -15,7 +15,7 @@
     },
     {
       "deviceId": "Amazon_Echo_Show",
-      "deviceName": "Amazon Echo Show",
+      "deviceName": "Test 2",
       "price": "249€",
       "description": "Der Amazon Echo Show überzeugt durch einen guten Klang, einer rundum gelungenen Performance und cleveren Videofunktionen. Das Display mit automatischer Bewegungsverfolgung kann dabei je nach Einsatz recht praktisch sein – befindest du dich in der Küche und du wechselst beispielsweise öfters vom Herd zur Anrichte, so hast du den Echo Show stets im Blick.",
       "sprachassistenz": "Amazon Alexa",
@@ -28,7 +28,7 @@
     },
     {
       "deviceId": "GOOGLE_NEST",
-      "deviceName": "Google Nest Audio",
+      "deviceName": "Test 3",
       "price": "99€",
       "description": "Der Google Nest Audio trägt das Erbe des Google Home würdig weiter. Auch wenn dem Speaker ein bisschen Power im unteren Frequenzbereich fehlt, schafft es Googles Gerät eine ordentliche Klangperformance zu präsentieren. Eine hochwertige Verarbeitung und ein großer Funktionsumfang komplettieren das Bild und machen den Google Nest Audio zu einem empfehlenswerten Smart Speaker.",
       "sprachassistenz": "Google Assistant",

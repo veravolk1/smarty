@@ -1,13 +1,14 @@
 import React, {useContext} from "react";
-import deviceConfig from "../../deviceConfig.json"
 import DevicePage from "./DevicePage/DevicePage";
 import Home from "./Home/Home";
 import CurrentPageContextObject from "./CurrentPageContext";
+import {DeviceCategory} from '../../types/device';
 
 
 const Body: React.FC = () => {
-    const {currentPage} = useContext(CurrentPageContextObject);
-    const device = deviceConfig.devices.find(device => device.deviceId === currentPage);
+    const {currentPage, currentDevices} = useContext(CurrentPageContextObject);
+    console.log(currentDevices);
+    const device = currentDevices?.find(device => device.deviceId === currentPage);
     return (
         <div>
             {currentPage === "home" ? <Home /> : <DevicePage device={device}/>}

@@ -13,7 +13,18 @@
 }
 
 #logo{
-    height: 50px;
+    height: 40px;
+}
+
+#devices .deviceCategory{
+    display: flex;
+    background-color: transparent;
+    float: right;
+    border: transparent;
+    border-radius: 0;
+    height: 41px;
+    margin-top: 10px;
+    font-weight: bold;
 }
 
 #devices .device{
@@ -21,11 +32,16 @@
     background-color: transparent;
     float: right;
     border: transparent;
-    height: 100%;
-    margin-top: 10px;
+    border-radius: 0;
+    height: 31px;
 }
 
-#devices .device:focus{
+#devices .device:focus, #devices .deviceCategory:focus, #home{
     outline: none;
     box-shadow: none;
+}
+
+#subnav{
+   background-color: #90a9ab;
+    height: 35px;
 }

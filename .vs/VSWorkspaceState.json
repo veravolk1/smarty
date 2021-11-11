@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Body",
+    "\\src\\components\\Body\\DevicePage",
+    "\\src\\components\\Body\\DevicePage\\InfoComponent",
+    "\\src\\components\\Body\\Home",
+    "\\src\\components\\NavBar",
+    "\\src\\deviceConfigs",
+    "\\src\\types"
+  ],
+  "SelectedNode": "\\src\\deviceConfigs\\watchConfig.json",
+  "PreviewInSolutionExplorer": false
+}

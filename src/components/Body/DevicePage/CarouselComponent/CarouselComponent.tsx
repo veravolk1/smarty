@@ -1,7 +1,7 @@
 import './CarouselComponent.css';
 import React from "react";
 import {Carousel} from "react-bootstrap";
-import Device from "../../../../types/device";
+import { Device } from "../../../../types/device";
 
 interface Props{
     device: Device | undefined;
