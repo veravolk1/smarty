@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\public",
     "\\src",
     "\\src\\components",
     "\\src\\components\\Body",
@@ -11,6 +12,6 @@
     "\\src\\deviceConfigs",
     "\\src\\types"
   ],
-  "SelectedNode": "\\src\\deviceConfigs\\watchConfig.json",
+  "SelectedNode": "\\public\\favicon.ico",
   "PreviewInSolutionExplorer": false
 }

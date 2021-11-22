@@ -1,10 +1,10 @@
 {
   "devices": [
     {
-      "deviceId": "APPLE_HOMEPOD",
-      "deviceName": "Apple HomePod",
+      "deviceId": "Assistant C",
+      "deviceName": "Assistant C",
       "price": "329€",
-      "description": "Der HomePod ist ein Laut\u00ADsprecher mit viel Power, der fantastisch klingt und sich an seine Umgebung anpasst. Er ist ein absoluter Musikexperte und verbindet Apple Music mit Siri, um zu lernen, welche Musik du magst. Und er ist ein intelligenter Assistent für zuhause, der alltägliche Aufgaben erledigen und dein Smart Home steuern kann. Der HomePod bringt dein Hörerlebnis auf ein neues Level. Und das ist erst der Anfang.",
+      "description": "Dieser Assistant ist ein Laut\u00ADsprecher mit viel Power, der fantastisch klingt und sich an seine Umgebung anpasst. Er ist ein absoluter Musikexperte und lernt, welche Musik du magst. Und er ist ein intelligenter Assistent für zuhause, der alltägliche Aufgaben erledigen und dein Smart Home steuern kann.",
       "sprachassistenz": "Apple Siri",
       "schnittstellen": "WLAN, Bluetooth",
       "gewicht": "2.5 kg",
@@ -14,10 +14,10 @@
       "images": ["applehomepod1.png", "applehomepod2.png"]
     },
     {
-      "deviceId": "Amazon_Echo_Show",
-      "deviceName": "Amazon Echo Show",
+      "deviceId": "Assistant B",
+      "deviceName": "Assistant B",
       "price": "249€",
-      "description": "Der Amazon Echo Show überzeugt durch einen guten Klang, einer rundum gelungenen Performance und cleveren Videofunktionen. Das Display mit automatischer Bewegungsverfolgung kann dabei je nach Einsatz recht praktisch sein – befindest du dich in der Küche und du wechselst beispielsweise öfters vom Herd zur Anrichte, so hast du den Echo Show stets im Blick.",
+      "description": "Dieser Assistant überzeugt durch einen guten Klang, einer rundum gelungenen Performance und cleveren Videofunktionen. Das Display mit automatischer Bewegungsverfolgung kann dabei je nach Einsatz recht praktisch sein – befindest du dich in der Küche und du wechselst beispielsweise öfters vom Herd zur Anrichte, so hast du den Assistant stets im Blick.",
       "sprachassistenz": "Amazon Alexa",
       "schnittstellen": " Bluetooth, Zigbee",
       "gewicht": "2.56 kg",
@@ -27,10 +27,10 @@
       "images": ["amazonecho1.png", "amazonecho2.png"]
     },
     {
-      "deviceId": "GOOGLE_NEST",
-      "deviceName": "Google Nest Audio",
+      "deviceId": "Assistant A",
+      "deviceName": "Assistant A",
       "price": "99€",
-      "description": "Der Google Nest Audio trägt das Erbe des Google Home würdig weiter. Auch wenn dem Speaker ein bisschen Power im unteren Frequenzbereich fehlt, schafft es Googles Gerät eine ordentliche Klangperformance zu präsentieren. Eine hochwertige Verarbeitung und ein großer Funktionsumfang komplettieren das Bild und machen den Google Nest Audio zu einem empfehlenswerten Smart Speaker.",
+      "description": "Auch wenn dem Speaker ein bisschen Power im unteren Frequenzbereich fehlt, schafft dieses Gerät eine ordentliche Klangperformance zu präsentieren. Eine hochwertige Verarbeitung und ein großer Funktionsumfang komplettieren das Bild und machen den Assistant zu einem empfehlenswerten Smart Speaker.",
       "sprachassistenz": "Google Assistant",
       "schnittstellen": "Bluetooth 5.0, WLAN, Chromecast",
       "gewicht": "1,2 kg",

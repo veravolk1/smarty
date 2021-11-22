@@ -15,7 +15,7 @@ export type Device = {
 }
 
 export enum DeviceCategory {
-    SPEAKER = "Smart Speaker",
+    SPEAKER = "Smart Assistant",
     WATCH = "Smart Watch",
-    HOME = "Smart Home"
+    HOME = "Smart Camera"
 }

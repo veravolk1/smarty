@@ -1,8 +1,8 @@
 {
   "devices": [
     {
-      "deviceId": "GOOGLE_CAM",
-      "deviceName": "Google Nest Kamera",
+      "deviceId": "Camera C",
+      "deviceName": "Camera C",
       "price": "199€",
       "description": "Mit dem Live-Video rund um die Uhr in 1.080p-HD-Qualität hast Du Dein Zuhause immer im Blick – ganz egal, wo Du gerade bist. Dank Nachtsichtmodus hast Du auch bei Dunkelheit oder wenig Licht ein klares Bild. In die Kamera sind auch ein Lautsprecher und Mikrofon eingebaut. So kannst Du mit Personen sprechen und diese auch hören.",
       "sprachassistenz": "Google Assistant",
@@ -14,8 +14,8 @@
       "images": ["nestcam1.png", "nestcam2.png"]
     },
     {
-      "deviceId": "Ring Security Kamera",
-      "deviceName": "Ring Security Kamera",
+      "deviceId": "Camera B",
+      "deviceName": "Camera B",
       "price": "199€",
       "description": "Mit der vielseitigen Stick Up Cam Battery sorgen Sie für Sicherheit überall - sowohl im Innenbereich als auch im Außenbereich. Dank des kabellosen Designs können Sie die Kamera dort platzieren, wo Sie sie benötigen und sie bei Bedarf verschieben. Platzieren Sie sie ganz flexibel auf einer ebenen Fläche oder befestigen Sie die Kamera an einer Wand für eine dauerhaftere Lösung. Mit der Stick Up Cam Battery sind Sie immer mit Ihrem Zuhause verbunden, so dass Sie jederzeit sehen können, was passiert.",
       "sprachassistenz": "Amazon Alexa",
@@ -24,11 +24,11 @@
       "masse": "95 x 46 x 46 mm (BxHxT)",
       "akku": "-",
       "farben": "Schwarz, Weiß",
-      "images": ["ringcam1.png", "ringcam2.png"]
+      "images": ["ringcam2.jpg", "ringcam1.jpg"]
     },
     {
-      "deviceId": "Blink Security Kamera",
-      "deviceName": "Blink Security Kamera",
+      "deviceId": "Camera A",
+      "deviceName": "Camera A",
       "price": "55€",
       "description": "Die kompakte und kabellose Außenkamera liefert HD-Aufnahmen, Videoaufzeichnung bei Bewegungserkennung, Nachtlicht und Gegensprechen. Die Kamerabilder könnten aber besser und vor allem nachts heller sein. ",
       "sprachassistenz": "-",
@@ -37,7 +37,7 @@
       "masse": "71 x 71 x 31 mm (BxHxT)",
       "akku": "-",
       "farben": "Kreide, Carbon",
-      "images": ["blinkcam1.png", "blinkcam2.png"]
+      "images": ["blinkcam1.jpg", "blinkcam2.jpg"]
     }
   ]
 }

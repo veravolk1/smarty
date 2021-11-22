@@ -1,10 +1,10 @@
 {
   "devices": [
    {
-      "deviceId": "Fitbit Sense",
-      "deviceName": "Fitbit Sense",
+      "deviceId": "Watch C",
+      "deviceName": "Watch C",
       "price": "299€",
-      "description": "Die Fitbit Sense überzeugt uns mit starken Gesundheits-Features. Messungen von Puls, Stress, Schlaf und Sauerstoffgehalt im Blut gehören bei dieser Preisklasse eines Fitness-Trackers quasi zum Standard-Repertoire. Zusätzlich bietet sie ein Thermometer für die Hauttemperatur und, ähnlich wie Smartwatch-Flagschiffe von Samsung und Apple, ein EKG. Letzteres ist aktuell fast ein Alleinstellungsmerkmal bei den Fitness-Trackern unserer Bestenliste – nur die Withings Scanwatch zieht hier mit. Die Fitbit Sense eignet sich zudem zum Schwimmen, da sie bis 50 Meter wasserdicht ist.",
+      "description": "Diese Smartwatch überzeugt uns mit starken Gesundheits-Features. Messungen von Puls, Stress, Schlaf und Sauerstoffgehalt im Blut gehören bei dieser Preisklasse eines Fitness-Trackers quasi zum Standard-Repertoire. Zusätzlich bietet sie ein Thermometer für die Hauttemperatur und ein EKG. Letzteres ist aktuell fast ein Alleinstellungsmerkmal bei den Fitness-Trackern.",
       "sprachassistenz": "Amazon Alexa",
       "schnittstellen": "Bluetooth",
       "gewicht": "33 g",
@@ -14,23 +14,23 @@
       "images": ["fitbit1.png", "fitbit2.png"]
     },
       {
-      "deviceId": "Garmin Vivoactive",
-      "deviceName": "Garmin Vivoactive",
+      "deviceId": "Watch B",
+      "deviceName": "Watch B",
       "price": "249€",
-      "description": "Vivoactive ist der Name des jüngsten Sprosses im Portfolio der Fitness-Tracker des schweizer Unternehmens Garmin. Lange hat die Markteinführung auf sich warten lassen und seit der letzten Märzwoche ist das Fitnessarmband endlich in den Farben Schwarz und Weiß verfügbar. Gar nicht so leicht fällt hingegen die Einordnung des Produkt, denn sie ist sowohl vollwertige Sportuhr, als auch Smartwatch und Fitness Tracker.",
+      "description": "Ob beim Training oder beim Einkaufen - diese Smartwatch hält mit deinem aktiven Lifestyle Schritt. Bei Outdoor-Aktivitäten zeichnet das integrierte GPS die Distanz, die Pace, die Position und mehr auf.  Die Uhr zeichnet sich besonders durch ihr schmales Design (trotz GPS), und damit hohen Tragekomfort aus. Trage sie jeden Tag, um ein gesundes Gleichgewicht zwischen Arbeitsleben und Freizeit zu erzielen.",
       "sprachassistenz": "-",
       "schnittstellen": " Bluetooth, WLAN",
       "gewicht": "45 g",
       "masse": "43,8 x 38,5 x 8 mm (BxHxT)",
       "akku": "21 Tage",
       "farben": "Schwarz, Weiß",
-      "images": ["garmin1.png", "garmin2.png"]
+      "images": ["garmin1.jpg", "garmin2.jpg"]
     },
     {
-      "deviceId": "Apple Watch",
-      "deviceName": "Apple Watch",
+      "deviceId": "Watch A",
+      "deviceName": "Watch A",
       "price": "429€",
-      "description": "Die Apple Watch Series 6 misst den Sauerstoffgehalt in Ihrem Blut mit einem revolutionären neuen Sensor und einer App. Machen Sie ein EKG von Ihrem Handgelenk aus. Sehen Ihre Fitnessdaten auf dem verbesserten Always-On Retina Display, das jetzt im Freien 2,5 Mal heller ist, wenn Ihr Handgelenk unten ist. Planen Sie eine Routine für Ihre Schlafenszeit und zeichnen Sie Ihren Schlaf auf. Und mit Mobilfunk können Sie Ihr iPhone zu Hause lassen. Sie ist das ultimative Gerät für ein gesünderes, aktiveres und verbundeneres Leben.",
+      "description": "Diese Smartwatch misst den Sauerstoffgehalt in Ihrem Blut mit einem revolutionären neuen Sensor und einer App. Machen Sie ein EKG von Ihrem Handgelenk aus. Planen Sie eine Routine für Ihre Schlafenszeit und zeichnen Sie Ihren Schlaf auf. Und mit Mobilfunk können Sie Ihr Smartphone zu Hause lassen. Die Smartwatch ist das ultimative Gerät für ein gesünderes, aktiveres und verbundeneres Leben.",
       "sprachassistenz": "Apple Siri",
       "schnittstellen": "Bluetooth 5.0, WLAN, Chromecast",
       "gewicht": "40 g",
