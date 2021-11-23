@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\public",
+    "\\public\\images",
     "\\src",
     "\\src\\components",
     "\\src\\components\\Body",
-    "\\src\\components\\Body\\DevicePage",
-    "\\src\\components\\Body\\DevicePage\\InfoComponent",
     "\\src\\components\\Body\\Home",
     "\\src\\components\\NavBar",
     "\\src\\deviceConfigs",
     "\\src\\types"
   ],
-  "SelectedNode": "\\public\\favicon.ico",
+  "SelectedNode": "\\public\\images\\smartyLogo.svg",
   "PreviewInSolutionExplorer": false
 }
